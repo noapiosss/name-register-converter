@@ -16,4 +16,4 @@ $\text{prefixes}$ - set of prefixes (random prefixes count and random register)
 
 ---
 
-![alt text](https://i.imgur.com/mjqBdIH.png)
+![Alt](https://i.imgur.com/mjqBdIH.png)
