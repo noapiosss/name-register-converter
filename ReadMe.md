@@ -14,4 +14,8 @@ $\text{prefixes}$ - set of prefixes (random prefixes count and random register)
 
 ## Execution example
 
+<img style="float: center;" src="https://i.imgur.com/RO1xYR2.png">
+
+## Testing
+
 <img style="float: center;" src="https://i.imgur.com/mjqBdIH.png">
