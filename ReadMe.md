@@ -1,8 +1,8 @@
 # Register converter for names
 
-To convert the name in the correct register call ```Convert(string input)``` method of ```NameRegisterConverter``` class.
+To convert a name in the correct register simply call ```Convert(string input)``` method of ```NameRegisterConverter``` class.
 
-Also to test this solution created ```RandomNameGenerator``` class, to generate a random name. Method ```GenerateName()``` return random name in format:
+Also, to test this solution was created ```RandomNameGenerator``` class, with method ```GenerateName()```  which return random name in format:
 
 $$\text{firstName} + \text{prefixes} + \text{lastName}$$
 
