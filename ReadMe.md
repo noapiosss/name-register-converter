@@ -12,6 +12,8 @@ $\text{firstName}$ and $\text{lastName}$ - sets of random english letters in ran
 
 $\text{prefixes}$ - set of prefixes (random prefixes count and random register)
 
-Execution example:
+## Execution example
 
-![alt text](https://i.imgur.com/cniUvjY.png)
+#
+
+![alt text](https://i.imgur.com/mjqBdIH.png)
