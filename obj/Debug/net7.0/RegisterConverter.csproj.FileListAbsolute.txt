@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RegisterConverter\bin\Debug\net7.0\RegisterConverter.exe
+C:\Users\Lenovo\Desktop\RegisterConverter\bin\Debug\net7.0\RegisterConverter.deps.json
+C:\Users\Lenovo\Desktop\RegisterConverter\bin\Debug\net7.0\RegisterConverter.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RegisterConverter\bin\Debug\net7.0\RegisterConverter.dll
+C:\Users\Lenovo\Desktop\RegisterConverter\bin\Debug\net7.0\RegisterConverter.pdb
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.dll
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\refint\RegisterConverter.dll
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.pdb
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\RegisterConverter.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RegisterConverter\obj\Debug\net7.0\ref\RegisterConverter.dll
