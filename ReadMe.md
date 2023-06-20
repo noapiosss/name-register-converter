@@ -14,6 +14,4 @@ $\text{prefixes}$ - set of prefixes (random prefixes count and random register)
 
 Execution example:
 
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://i.imgur.com/cniUvjY.png)" />
-</p>
+![alt text](https://i.imgur.com/cniUvjY.png)
