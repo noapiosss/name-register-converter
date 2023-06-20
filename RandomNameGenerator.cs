@@ -10,19 +10,19 @@ namespace RegisterConverter
         private static readonly string[] _prefixes = new string[] { "von", "der", "de", "du", "la", "le" };
         private static readonly Random _random = new();
 
-        public static string GenerateFullName()
+        public static string GenerateName()
         {
             List<string> nameParts = new()
             {
-                GeneratePartName()
+                GenerateNamePart()
             };
 
-            while (_random.Next(10) > 5)
+            while (_random.Next(10) >= 5)
             {
                 nameParts.Add(PrefixInRandomRegister());
             }
 
-            nameParts.Add(GeneratePartName());
+            nameParts.Add(GenerateNamePart());
 
             return string.Join(" ", nameParts);
         }
@@ -34,13 +34,13 @@ namespace RegisterConverter
 
             foreach (char sign in prefix)
             {
-                _ = _random.Next(10) > 5 ? sb.Append(char.ToUpper(sign)) : sb.Append(sign);
+                _ = _random.Next(10) >= 5 ? sb.Append(char.ToUpper(sign)) : sb.Append(sign);
             }
 
             return sb.ToString();
         }
 
-        private static string GeneratePartName()
+        private static string GenerateNamePart()
         {
             int length = _random.Next(5, 15);
             StringBuilder sb = new();

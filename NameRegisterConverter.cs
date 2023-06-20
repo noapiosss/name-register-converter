@@ -5,7 +5,6 @@ namespace RegisterConverter
 {
     public static class NameRegisterConverter
     {
-        // probably that this isn't the complete list of prefixes
         private static readonly string[] _prefixes = new string[] { "von", "der", "de", "du", "la", "le" };
         public static string Convert(string input)
         {
